@@ -1,0 +1,457 @@
+{
+  "user": {
+    "name": "Billy Li"
+  },
+  "tuition": {
+    "amount": 10350
+  },
+  "tasks": {
+    "holds": 2,
+    "toDos": 0,
+    "messages": 0
+  },
+  "schedule": [
+    {
+      "course": "CSE 518: Foundations of Human Computer Interactions",
+      "time": "9:30AM - 10:50AM"
+    },
+    {
+      "course": "CSE 535: Distributed Systems",
+      "time": "3:30PM - 4:50PM"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Campus Event Reminder",
+      "description": "Don't forget about the campus career fair at 2 PM next week"
+    },
+    {
+      "title": "System Maintenance",
+      "description": "Scheduled for this weekend"
+    }
+  ],
+  "events": [
+    {
+      "title": "Career Fair",
+      "date": "Nov 25, 2025 - 2:00 PM"
+    },
+    {
+      "title": "Thanksgiving Break",
+      "date": "Nov 26, 2025 - Nov 30, 2025"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "code": "CSE 101",
+      "name": "Introduction to Computer Science",
+      "instructor": "Dr. Smith",
+      "credits": 3,
+      "time": "MWF 9:00AM - 10:00AM",
+      "location": "Engineering Building 101",
+      "seats": 25
+    },
+    {
+      "id": 2,
+      "code": "CSE 215",
+      "name": "Foundations of Computer Science ",
+      "instructor": "Dr. Johnson",
+      "credits": 4,
+      "time": "TTh 10:30AM - 12:00PM",
+      "location": "Engineering Building 203",
+      "seats": 30
+    },
+    {
+      "id": 3,
+      "code": "CSE 316",
+      "name": "Fundamentals of Software Development",
+      "instructor": "Prof. Williams",
+      "credits": 3,
+      "time": "MWF 1:00PM - 2:00PM",
+      "location": "Engineering Building 305",
+      "seats": 20
+    },
+    {
+      "id": 4,
+      "code": "CSE 320",
+      "name": "System Fundamentals II",
+      "instructor": "Dr. Brown",
+      "credits": 4,
+      "time": "TTh 2:00PM - 3:30PM",
+      "location": "Engineering Building 210",
+      "seats": 28
+    },
+    {
+      "id": 5,
+      "code": "CSE 416",
+      "name": "Software Engineering",
+      "instructor": "Prof. Davis",
+      "credits": 3,
+      "time": "MWF 11:00AM - 12:00PM",
+      "location": "Engineering Building 401",
+      "seats": 35
+    },
+    {
+      "id": 6,
+      "code": "CSE 305",
+      "name": "Principles of Database Systems",
+      "instructor": "Dr. Miller",
+      "credits": 3,
+      "time": "TTh 9:00AM - 10:30AM",
+      "location": "Engineering Building 315",
+      "seats": 22
+    },
+    {
+      "id": 7,
+      "code": "CSE 310",
+      "name": "Computer Networks",
+      "instructor": "Prof. Wilson",
+      "credits": 3,
+      "time": "MWF 2:00PM - 3:00PM",
+      "location": "Engineering Building 220",
+      "seats": 18
+    },
+    {
+      "id": 8,
+      "code": "CSE 353",
+      "name": "Machine Learning",
+      "instructor": "Dr. Taylor",
+      "credits": 4,
+      "time": "TTh 3:30PM - 5:00PM",
+      "location": "Engineering Building 410",
+      "seats": 24
+    },
+    {
+      "id": 9,
+      "code": "CSE 352",
+      "name": "Artificial Intelligence",
+      "instructor": "Prof. Anderson",
+      "credits": 3,
+      "time": "MWF 10:00AM - 11:00AM",
+      "location": "Engineering Building 312",
+      "seats": 26
+    },
+    {
+      "id": 10,
+      "code": "CSE 361",
+      "name": "Web Security",
+      "instructor": "Dr. Thomas",
+      "credits": 3,
+      "time": "TTh 1:00PM - 2:30PM",
+      "location": "Engineering Building 205",
+      "seats": 30
+    },
+    {
+      "id": 11,
+      "code": "MAT 125",
+      "name": "Calculus I",
+      "instructor": "Dr. Martinez",
+      "credits": 4,
+      "time": "MWF 8:00AM - 9:00AM",
+      "location": "Math Building 120",
+      "seats": 40
+    },
+    {
+      "id": 12,
+      "code": "MAT 126",
+      "name": "Calculus II",
+      "instructor": "Prof. Garcia",
+      "credits": 4,
+      "time": "TTh 11:00AM - 12:30PM",
+      "location": "Math Building 215",
+      "seats": 35
+    },
+    {
+      "id": 13,
+      "code": "MAT 211",
+      "name": "Linear Algebra",
+      "instructor": "Dr. Rodriguez",
+      "credits": 3,
+      "time": "MWF 3:00PM - 4:00PM",
+      "location": "Math Building 310",
+      "seats": 28
+    },
+    {
+      "id": 14,
+      "code": "PHY 131",
+      "name": "Physics I",
+      "instructor": "Prof. Lee",
+      "credits": 4,
+      "time": "TTh 8:00AM - 9:30AM",
+      "location": "Physics Building 101",
+      "seats": 32
+    },
+    {
+      "id": 15,
+      "code": "PHY 132",
+      "name": "Physics II",
+      "instructor": "Dr. White",
+      "credits": 4,
+      "time": "MWF 12:00PM - 1:00PM",
+      "location": "Physics Building 102",
+      "seats": 30
+    },
+    {
+      "id": 16,
+      "code": "ENG 101",
+      "name": "English Composition",
+      "instructor": "Prof. Harris",
+      "credits": 3,
+      "time": "TTh 10:00AM - 11:30AM",
+      "location": "Humanities Building 210",
+      "seats": 25
+    },
+    {
+      "id": 17,
+      "code": "ENG 201",
+      "name": "Technical Writing",
+      "instructor": "Dr. Clark",
+      "credits": 3,
+      "time": "MWF 1:00PM - 2:00PM",
+      "location": "Humanities Building 305",
+      "seats": 22
+    },
+    {
+      "id": 18,
+      "code": "BIO 201",
+      "name": "General Biology",
+      "instructor": "Prof. Lewis",
+      "credits": 4,
+      "time": "TTh 1:30PM - 3:00PM",
+      "location": "Science Building 120",
+      "seats": 35
+    },
+    {
+      "id": 19,
+      "code": "CHE 131",
+      "name": "General Chemistry",
+      "instructor": "Dr. Walker",
+      "credits": 4,
+      "time": "MWF 9:00AM - 10:00AM",
+      "location": "Science Building 215",
+      "seats": 38
+    },
+    {
+      "id": 20,
+      "code": "PSY 101",
+      "name": "Introduction to Psychology",
+      "instructor": "Prof. Hall",
+      "credits": 3,
+      "time": "TTh 11:30AM - 1:00PM",
+      "location": "Social Sciences Building 101",
+      "seats": 45
+    }
+  ],
+  "financialAid": [
+    {
+      "id": 1,
+      "name": "Pell Grant",
+      "type": "grant",
+      "amount": 3500
+    },
+    {
+      "id": 2,
+      "name": "Presidential Scholarship",
+      "type": "scholarship",
+      "amount": 2500
+    },
+    {
+      "id": 3,
+      "name": "Federal Direct Subsidized Loan",
+      "type": "loan",
+      "amount": 1850
+    },
+    {
+      "id": 4,
+      "name": "State Grant",
+      "type": "grant",
+      "amount": 1500
+    },
+    {
+      "id": 5,
+      "name": "Academic Excellence Scholarship",
+      "type": "scholarship",
+      "amount": 1000
+    }
+  ],
+  "tuitionCharges": [
+    {
+      "id": 1,
+      "description": "Tuition - Fall 2025",
+      "amount": 8500
+    },
+    {
+      "id": 2,
+      "description": "Student Activity Fee",
+      "amount": 350
+    },
+    {
+      "id": 3,
+      "description": "Technology Fee",
+      "amount": 500
+    },
+    {
+      "id": 4,
+      "description": "Health Services Fee",
+      "amount": 250
+    },
+    {
+      "id": 5,
+      "description": "Recreation Center Fee",
+      "amount": 200
+    },
+    {
+      "id": 6,
+      "description": "Library Fee",
+      "amount": 150
+    },
+    {
+      "id": 7,
+      "description": "Parking Permit",
+      "amount": 400
+    }
+  ],
+  "academicRecords": {
+    "gpa": 3.67,
+    "semesters": [
+      {
+        "id": 1,
+        "name": "Fall 2023",
+        "courses": [
+          {
+            "code": "CSE 101",
+            "name": "Introduction to Computer Science",
+            "credits": 3,
+            "grade": "A"
+          },
+          {
+            "code": "MAT 125",
+            "name": "Calculus I",
+            "credits": 4,
+            "grade": "A-"
+          },
+          {
+            "code": "ENG 101",
+            "name": "English Composition",
+            "credits": 3,
+            "grade": "B+"
+          },
+          {
+            "code": "PHY 131",
+            "name": "Physics I",
+            "credits": 4,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Spring 2024",
+        "courses": [
+          {
+            "code": "CSE 215",
+            "name": "Foundations of Computer Science",
+            "credits": 4,
+            "grade": "A"
+          },
+          {
+            "code": "MAT 126",
+            "name": "Calculus II",
+            "credits": 4,
+            "grade": "A-"
+          },
+          {
+            "code": "PHY 132",
+            "name": "Physics II",
+            "credits": 4,
+            "grade": "B+"
+          },
+          {
+            "code": "PSY 101",
+            "name": "Introduction to Psychology",
+            "credits": 3,
+            "grade": "A"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Fall 2024",
+        "courses": [
+          {
+            "code": "CSE 316",
+            "name": "Fundamentals of Software Development",
+            "credits": 3,
+            "grade": "A-"
+          },
+          {
+            "code": "CSE 320",
+            "name": "System Fundamentals II",
+            "credits": 4,
+            "grade": "B+"
+          },
+          {
+            "code": "MAT 211",
+            "name": "Linear Algebra",
+            "credits": 3,
+            "grade": "A"
+          },
+          {
+            "code": "BIO 201",
+            "name": "General Biology",
+            "credits": 4,
+            "grade": "B"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spring 2025",
+        "courses": [
+          {
+            "code": "CSE 373",
+            "name": "Analysis of Algorithms",
+            "credits": 3,
+            "grade": "A"
+          },
+          {
+            "code": "CSE 416",
+            "name": "Software Engineering",
+            "credits": 3,
+            "grade": "A-"
+          },
+          {
+            "code": "CSE 310",
+            "name": "Computer Networks",
+            "credits": 3,
+            "grade": "B+"
+          },
+          {
+            "code": "CHE 131",
+            "name": "General Chemistry",
+            "credits": 4,
+            "grade": "B+"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Fall 2025",
+        "courses": [
+          {
+            "code": "CSE 518",
+            "name": "Foundations of Human Computer Interactions",
+            "credits": 3,
+            "grade": "IP"
+          },
+          {
+            "code": "CSE 535",
+            "name": "Distributed Systems",
+            "credits": 3,
+            "grade": "IP"
+          }
+        ]
+      }
+    ]
+  }
+}
